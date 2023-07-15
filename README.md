@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ilyes</h1>
 <h3 align="center">A computer science student and junior full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
