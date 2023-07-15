@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-ilyes&show_icons=true&locale=en" alt="ar-ilyes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-ilyes&" alt="ar-ilyes" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-ilyes&border_radius=5.3)](https://git.io/streak-stats)
