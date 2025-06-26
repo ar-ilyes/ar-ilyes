@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyes</h1>
-<h3 align="center">A computer science student</h3>
+<h3 align="center">A junior software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
-- 🌱 I’m currently learning **Next js and ML**
-
-- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **lm_arabet@esi.dz**
 
