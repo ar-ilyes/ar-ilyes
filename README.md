@@ -1,20 +1,147 @@
-<h1 align="center">Hi 👋, I'm Ilyes</h1>
-<h3 align="center">A junior software engineer</h3>
+# Hi there, I'm Ilyes! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
 
-- 📫 How to reach me **lm_arabet@esi.dz**
+```javascript
+const ilyes = {
+    location: "Paris, France 🇫🇷",
+    passion: ["System Design", "Software Architecture", "Clean Code"],
+    currentlyExploring: {
+        ai: "Reinforcement Learning & Deep Learning models",
+        infrastructure: "DevOps practices & scalable system design",
+        emerging_tech: "Blockchain integration & GenAI applications"
+    },
+    approach: "Build solid foundations, then optimize relentlessly",
+    learning: "Infrastructure side of large-scale software systems",
+    hobby: "Testing new technologies in real projects",
+    philosophy: "Good software architecture is invisible until you need it",
+    contact: "ilyes.arabet.pro@gmail.com"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ilyes arabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyes arabet" height="30" width="40" /></a>
-<a href="https://discord.gg/ilyesarabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ilyesarabet" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🌟 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-ilyes&show_icons=true&locale=en&layout=compact" alt="ar-ilyes" /></p>
+### 🏗️ [calM - CPU Architecture Learning Machine](https://github.com/Calm-ESI/Calm)
+**Tech Stack:** React, GSAP, Node.js, Express, PostgreSQL, Langchain  
+A web-based CPU simulator that teaches computer architecture through hands-on experience. Students can write assembly code, execute it step-by-step, and see how instructions flow through the CPU pipeline. Built with an interactive interface and includes structured courses.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-ilyes&show_icons=true&locale=en" alt="ar-ilyes" /></p>
+### 🗺️ [Indoor Navigation for Visually Impaired](https://github.com/SoftGuar/cartographie_service)
+**Tech Stack:** FastAPI, PostgreSQL, OpenCV, ML Pipeline  
+Developed the backend for an assistive navigation system that processes floor plans and architectural drawings. The system identifies walls, doors, and furniture using computer vision, then generates accessible routes with voice guidance. Part of a larger IoT ecosystem that tracks user movement in real-time. [Full project](https://github.com/SoftGuar)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-ilyes&border_radius=5.3)](https://git.io/streak-stats)
+### 🏦 [Multi-Agent IFRS AAOIFI System](https://github.com/isdb-ELFARI9/multi_agents_IFRS_AAOIFI)
+**Tech Stack:** LangGraph, FastAPI, Pinecone, Multi-Agent Architecture  
+An AI system that analyzes financial news and situations to recommend updates to Islamic finance standards. Uses specialized agents for different tasks - one gathers news, another identifies gaps in current standards, and expert agents propose specific improvements. Includes human oversight for validation. [Documentation](https://docs.google.com/document/d/1YJ6aLFttcMmjVjebyktLvjKfPOne63MYfw_ZW8Re5_8/edit?usp=sharing)
+
+### 🏆 [Sensor Data Ingestion System](https://github.com/ar-ilyes/Sensor-Data-Ingestion-System) 
+**🥇 1st Place DevFest Hackathon Winner**  
+**Tech Stack:** RabbitMQ, Next.js, InfluxDB, Microservices  
+A production monitoring system for manufacturing environments. Handles thousands of sensor readings per second, processes them through multiple microservices, and displays real-time dashboards. Each service has its own database and communicates through message queues. Built with scalability and fault tolerance in mind.
+
+### 📱 [AprilTags Indoor Positioning](https://github.com/ar-ilyes/april-tags-simple-pos)
+**Tech Stack:** Kotlin, OpenCV, Computer Vision  
+An Android app that determines your exact position inside a building using AprilTag markers on walls. Processes camera input to detect tags and calculates position through triangulation. Useful for navigation in places where GPS doesn't work well.
+
+---
+
+<div align="center">
+  <i>More projects available in my repositories</i>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ar-ilyes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ar-ilyes)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ilyes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ar-ilyes)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ar-ilyes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🛠️ Technologies I've Worked With
+
+*Here are the technologies I've worked with and tested so far*
+
+### **Frontend Development**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,jquery,react,nextjs,vue,electron" alt="Frontend" />
+</div>
+
+### **Backend Development**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,php" alt="Backend" />
+</div>
+
+### **Databases**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" alt="InfluxDB" width="48" height="48"/>
+</div>
+
+### **Mobile Development**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Mobile" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48"/>
+</div>
+
+### **Data Science & ML**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="ML" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48"/>
+</div>
+
+### **DevOps & Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,git" alt="DevOps" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="48" height="48"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+![Isometric Calendar](metrics.plugin.isocalendar.svg)
+
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilyes-arabet-b25851220/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ilyesarabet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyes.arabet.pro@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ *"Code is poetry written in logic"* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=ar-ilyes&style=flat-square&color=blue)
+
+</div>
