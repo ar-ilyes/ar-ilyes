@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual trigger
   workflow_dispatch:
-  # Update on push to main branch
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,18 +12,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token (automatically available)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           
-          # Basic config
           user: ar-ilyes
           template: classic
+          
+          config_include_private: yes
+          
           base: header, activity, community, repositories, metadata
           
-          # Isometric calendar plugin
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           
-          # Output settings
           filename: metrics.plugin.isocalendar.svg
           config_timezone: Europe/Paris
