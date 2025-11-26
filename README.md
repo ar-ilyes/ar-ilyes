@@ -1,7 +1,7 @@
 # Hi there, I'm Ilyes! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F60F7&width=435&lines=Software+engineer;AI+research+intern" alt="Typing SVG" /></a>
 </div>
 
 ## 🚀 About Me
